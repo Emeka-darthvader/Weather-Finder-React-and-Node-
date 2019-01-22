@@ -11,8 +11,8 @@ I also used his styling and available at his [github](https://github.com/hamza-m
 
 # Install
 To install, remember to:
-1 use git clone to clone my directory
-2 use npm install to install all dependencies
-3 use npm start to run
+1. use git clone to clone my directory
+2. use npm install to install all dependencies
+3. use npm start to run
 
 This project is also available [here](https://weather-app-react-darthvader.herokuapp.com/)
