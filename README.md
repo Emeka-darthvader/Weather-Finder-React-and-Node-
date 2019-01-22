@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
- build https://www.youtube.com/watch?v=204C9yNeOYI
- style https://www.youtube.com/watch?v=P0vsGO4svUM&t=1s
 # Weather Helper?? 
 Welcome to this weather app I made with react. Special Thanks to Hamza Mirza
 
